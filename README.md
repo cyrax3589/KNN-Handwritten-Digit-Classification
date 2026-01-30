@@ -33,12 +33,15 @@ Each image is flattened into a feature vector before being passed to the model.
 7. Evaluated model performance using accuracy.
 8. Visualized results using:
    - Accuracy vs K graph
+   - 
      <img width="553" height="393" alt="image" src="https://github.com/user-attachments/assets/d68077e3-fc60-452a-a0cc-9f54a7210317" />
  
     - Confusion matrix
+    - 
       <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/0c0617f0-737f-4c6b-bf5a-068abd9fc3b9" />
  
    - Predicted digit outputs
+   - 
      <img width="795" height="175" alt="image" src="https://github.com/user-attachments/assets/56bf8e39-7c0d-4016-a23f-a607d44727d2" />
   
 
